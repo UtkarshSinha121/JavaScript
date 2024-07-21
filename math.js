@@ -12,6 +12,7 @@ console.log(Math.random()); // random number between 0 and 1
 console.log((Math.random()*10)+1); // random number between 1 and 10
 console.log(Math.floor(Math.random()*10)+1); // random number between 1 and 10 (integer)
 
+// random number between 10 and 20 (integer) when min and max both are defined
 const min = 10;
 const max = 20;
 
