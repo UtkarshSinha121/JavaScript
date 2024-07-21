@@ -13,3 +13,4 @@ console.log(num1.toPrecision(3)); // 51.2 // convert number to string with 2 sig
 const num2 = 50000000000;
 console.log(num2.toLocaleString()); // 50,000,000,000 // convert number to string with comma separated
 console.log(num2.toLocaleString("en-IN")); // 5,00,00,00,000 // convert number to string with comma separated in Indian format
+
